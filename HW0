@@ -1,0 +1,3 @@
+root@LAPTOP-M0PFLPUM:~/cs320-spring-2025-private/assigns/assign3/lib# docker ps
+CONTAINER ID   IMAGE          COMMAND   CREATED      STATUS         PORTS                  NAMES
+49ac7b728a43   f3c6c6850ea7   "bash"    3 days ago   Up 2 minutes   0.0.0.0:443->443/tcp   my-411-container
